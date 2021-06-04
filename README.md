@@ -4,5 +4,7 @@
 <ol>
     <li>Variables</li>
     <li>Constantes</li>
+    <li>Comentarios</li>
+    <li>Tipos de datos</li>
     <li></li>
 </ol>
