@@ -8,4 +8,5 @@
     <li>Tipos de datos</li>
     <li>Operadores aritmeticos ,asignación, logicos y comparación</li>
     <li>Punteros</li>
+    <li>Arrays</li>
 </ol>
