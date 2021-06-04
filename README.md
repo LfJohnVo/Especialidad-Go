@@ -10,4 +10,5 @@
     <li>Punteros</li>
     <li>Arrays</li>
     <li>Slice</li>
+    <li>Mapas</li>
 </ol>
