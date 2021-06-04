@@ -16,6 +16,11 @@ func main(){
 	//Equivalente a c++ o c--
 	c++
 	fmt.Println(c)
-	//Operadores Lógicos &&, ||
-	//
+	//Operadores comparación >, <, ==, !=, >= <=
+	fmt.Println(4 > 5)
+	//Operadores lógicos &&, ||
+	var age = 30
+	fmt.Println(age >= 18 && age <= 60)
+	//Unario !
+	fmt.Println(!(4 == 4))
 }

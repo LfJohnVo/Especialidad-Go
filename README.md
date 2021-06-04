@@ -6,5 +6,6 @@
     <li>Constantes</li>
     <li>Comentarios</li>
     <li>Tipos de datos</li>
-    <li>Operadores aritmeticos y de asignación</li>
+    <li>Operadores aritmeticos ,asignación, logicos y comparación</li>
+    
 </ol>
