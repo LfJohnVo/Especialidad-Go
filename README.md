@@ -9,4 +9,5 @@
     <li>Operadores aritmeticos ,asignación, logicos y comparación</li>
     <li>Punteros</li>
     <li>Arrays</li>
+    <li>Slice</li>
 </ol>
